@@ -10,14 +10,14 @@
 <body>
     <form action="sessão.php" method="post">
         <div class="form-control">
-            <label for="name">Nome:</label>
+            <label for="name">Insira seu nome:</label>
             <input type="text" name="name">
         </div>
         <div class="form-control">
-            <label for="phone">Telefone</label>
+            <label for="phone">Insira seu telefone</label>
             <input type="text" name="phone">
         </div>
-        <button type="submit">Enviar</button>
+        <button type="submit">Enviar dados</button>
     </form>
 </body>
 </html>
